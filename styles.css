@@ -168,6 +168,7 @@ body {
 .resume .resume_right .resume_education ul {
   padding-left: 40px;
   overflow: hidden;
+  text-align: justify;
 }
 
 .resume .resume_right ul li {
